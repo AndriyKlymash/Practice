@@ -1,0 +1,24 @@
+.header {
+    border-bottom: 2px solid silver ;
+}
+.content{
+    width: 200px;
+    border: 2px solid silver;
+    background-color: #dbcece;
+}
+.target{
+    display: flex;
+}
+
+h3 {
+    border-bottom: 2px solid silver;
+}
+
+.images {
+    border: 5px solid #c0c0c0;
+}
+
+.wrap{
+    display: flex;
+    justify-content: center;
+}

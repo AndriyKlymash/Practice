@@ -1,0 +1,37 @@
+#header{
+    height: 200px;
+    background-color: #a7ee38;
+    border:2px solid black;
+    text-align: center;
+}
+
+#menu {
+    width: 200px;
+    height: 420px;
+    background-color: #ff00dd;
+    border: 2px solid black;
+    margin: 5px;
+}
+
+.post{
+    width: 1400px;
+    height: 200px;
+    background-color: cornflowerblue;
+    margin: 5px;
+    border: 2px solid black;
+}
+
+.flex{
+    display: flex;
+}
+
+.flex1{
+    display: flex;
+    flex-direction: column;
+}
+
+#footer {
+    height: 200px;
+    background-color: #a7ee38;
+    border: 2px solid black;
+}
